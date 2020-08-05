@@ -1,0 +1,2 @@
+# Journal
+Design Patterns beginner
